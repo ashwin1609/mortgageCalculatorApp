@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mortgage App</string>
+    <string name="Mortgage_Calculator"> This is an App to calculate your monthly mortgage payments based on your principle amount, Interest rate and time period. </string>
+    <string name="Title"> Mortgage Calculator App </string>
+    <string name="PrincipleAmount"> Enter your Principle Amount $ </string>
+    <string name="Interest"> Enter the Interest Rate % </string>
+    <string name="Period"> Amortization Period </string>
+    <string name="Frequency"> Monthly   (Frequency) </string>
+    <string name="Calculate"> Calculate </string>
+    <string name="Back"> Back </string>
+    <string name="Statement"> Your monthly mortgage payment is : </string>
+</resources>
